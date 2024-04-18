@@ -1,0 +1,14 @@
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\bin\Debug\net8.0\C# RoadMap Practice.exe
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\bin\Debug\net8.0\C# RoadMap Practice.deps.json
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\bin\Debug\net8.0\C# RoadMap Practice.runtimeconfig.json
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\bin\Debug\net8.0\C# RoadMap Practice.dll
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\bin\Debug\net8.0\C# RoadMap Practice.pdb
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.AssemblyInfoInputs.cache
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.AssemblyInfo.cs
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.dll
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\refint\C# RoadMap Practice.dll
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.pdb
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\C# RoadMap Practice.genruntimeconfig.cache
+C:\Users\Zeeshan Noor\source\repos\C# RoadMap Practice\C# RoadMap Practice\obj\Debug\net8.0\ref\C# RoadMap Practice.dll
