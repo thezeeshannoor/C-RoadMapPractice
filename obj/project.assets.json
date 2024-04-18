@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zeeshan Noor\\source\\repos\\C# RoadMap Practice\\C# RoadMap Practice\\C# RoadMap Practice.csproj",
+      "projectUniqueName": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\C# RoadMap Practice.csproj",
       "projectName": "C# RoadMap Practice",
-      "projectPath": "C:\\Users\\Zeeshan Noor\\source\\repos\\C# RoadMap Practice\\C# RoadMap Practice\\C# RoadMap Practice.csproj",
+      "projectPath": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\C# RoadMap Practice.csproj",
       "packagesPath": "C:\\Users\\Zeeshan Noor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zeeshan Noor\\source\\repos\\C# RoadMap Practice\\C# RoadMap Practice\\obj\\",
+      "outputPath": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zeeshan Noor\\AppData\\Roaming\\NuGet\\NuGet.Config",
