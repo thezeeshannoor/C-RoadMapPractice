@@ -5,6 +5,7 @@ using ReferenceTypeNameSpace;
 using MethodsNamespace;
 using DelegationNamespace;
 using PropertyNamespace;
+using AccessibilityNameSpace;
 class Program
 {
     static void Main(string[] args)
@@ -68,7 +69,8 @@ class Program
         //Delegation
         Console.WriteLine("call method using Delegation");
         Calculation delObj = new Calculation(Delegation.Addtion);
-        Delegation.Addtion(20, 10);
+     
+        delObj(20, 10);
         delObj = Delegation.Subtraction;
         delObj(30, 10);
 
@@ -77,6 +79,19 @@ class Program
         Property prop = new Property();
         prop.Age = 5;
         Console.WriteLine(prop.Age);
+
+        //Accessbility Keyword
+        //private
+        Console.WriteLine("Accessbility keyword Public, Private Protected");
+        AccessibilityKeyword access=new AccessibilityKeyword();
+        access.AgeFun();
+
+        //public
+        Console.WriteLine(access.birth);
+
+        //protected
+        DeriveClass derObj = new DeriveClass();
+        derObj.Age();
 
     }
 }
