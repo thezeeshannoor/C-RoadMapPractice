@@ -3,6 +3,7 @@ using System;
 using ValueTypeNameSpace;
 using ReferenceTypeNameSpace;
 using MethodsNamespace;
+using DelegationNamespace;
 class Program
 {
     static void Main(string[] args)
@@ -62,6 +63,13 @@ class Program
         int value3 ;
         Methods.PassByOut(out value3);
         Console.WriteLine(value3);
+
+        //Delegation
+        Console.WriteLine("call method using Delegation");
+        Calculation delObj = new Calculation(Delegation.Addtion);
+        Delegation.Addtion(20, 10);
+        delObj = Delegation.Subtraction;
+        delObj(30, 10);
 
     }
 }
