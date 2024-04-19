@@ -6,6 +6,7 @@ using MethodsNamespace;
 using DelegationNamespace;
 using PropertyNamespace;
 using AccessibilityNameSpace;
+using ConstructorNamespace;
 class Program
 {
     static void Main(string[] args)
@@ -92,6 +93,20 @@ class Program
         //protected
         DeriveClass derObj = new DeriveClass();
         derObj.Age();
+
+        Console.WriteLine("\nConstructors");
+        Constructors cons = new Constructors();
+
+        //parametrized constructor
+        Constructors cons1 = new Constructors("zeeshan");
+
+        //Copy Constructor
+        Constructors cons2 = new Constructors(cons1);
+        Console.WriteLine("Copy COnstructor called \n"+cons1.age +" " + cons2.age);
+
+        cons1.age = 20;
+        Console.WriteLine("Copy COnstructor called \n" + cons1.age + " " + cons2.age);
+
 
     }
 }
