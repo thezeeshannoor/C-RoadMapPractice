@@ -2,11 +2,14 @@
 using System;
 using ValueTypeNameSpace;
 using ReferenceTypeNameSpace;
+using MethodsNamespace;
 class Program
 {
     static void Main(string[] args)
 
+
     {
+        // value type using struct
         Console.WriteLine("Value Type result using Struct");
         ValueTypePrac valueTypeObj1 ,valueTypeObj2 = new ValueTypePrac();
         valueTypeObj1.age = 10;
@@ -17,6 +20,7 @@ class Program
         Console.WriteLine(valueTypeObj1.age +" "+ valueTypeObj1.name);
         Console.WriteLine(valueTypeObj2.age + " " + valueTypeObj2.name);
 
+        //reference type using class
         Console.WriteLine("\nReference Type result using Class");
 
         ReferenceTypePrac  refTypeObJ2, refTypeObj1 = new ReferenceTypePrac();
@@ -29,6 +33,35 @@ class Program
         Console.WriteLine(refTypeObj1.age + " " + refTypeObj1.name);
         Console.WriteLine(refTypeObJ2.age + " " + refTypeObJ2.name);
 
+
+        Console.WriteLine("\nMethods");
+        Methods.Show(2,"Ali");
+
+        //By named argument we dont have to follow the sequence
+        Console.WriteLine("\nMethods using Named Argument");
+        Methods.Show(name:"Ali", age:2);
+
+        //By optional argument set default value if no value is pass as argument
+        Console.WriteLine("\nMethods using Optional Argument");
+        Methods.Show(2);
+
+        //Methods By using PassByValue
+        Console.WriteLine("\nMethods using PassByValue");
+        int value = 5;
+        Methods.PassByValue(value);
+        Console.WriteLine(value);
+
+        //Methods By using PassByReference
+        Console.WriteLine("\nMethods using PassByReference");
+        int value2 = 5;
+        Methods.PassByRef(ref value2);
+        Console.WriteLine(value2);
+
+        //Methods By using out keyword (Dont require initialization before passing it)
+        Console.WriteLine("\nMethods using out Keyword");
+        int value3 ;
+        Methods.PassByOut(out value3);
+        Console.WriteLine(value3);
 
     }
 }

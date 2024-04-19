@@ -10,5 +10,7 @@ namespace ValueTypeNameSpace
     {
         public int age;
         public string name;
+        
+
     }
 }
