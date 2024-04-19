@@ -4,6 +4,7 @@ using ValueTypeNameSpace;
 using ReferenceTypeNameSpace;
 using MethodsNamespace;
 using DelegationNamespace;
+using PropertyNamespace;
 class Program
 {
     static void Main(string[] args)
@@ -70,6 +71,12 @@ class Program
         Delegation.Addtion(20, 10);
         delObj = Delegation.Subtraction;
         delObj(30, 10);
+
+        //Property
+        Console.WriteLine("getter setter using Property");
+        Property prop = new Property();
+        prop.Age = 5;
+        Console.WriteLine(prop.Age);
 
     }
 }
