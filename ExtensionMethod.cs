@@ -11,7 +11,7 @@ namespace ExtensionMethod
     {
         //public void Funct()
         //{
-        //    Console.WriteLine("Additional function added using Extension method1");
+        //    Console.WriteLine("additional function added using extension method1");
         //}
     }
     static class ExtensionMethod
