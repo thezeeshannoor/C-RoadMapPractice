@@ -7,6 +7,7 @@ using DelegationNamespace;
 using PropertyNamespace;
 using AccessibilityNameSpace;
 using ConstructorNamespace;
+using ExtensionMethod;
 class Program
 {
     static void Main(string[] args)
@@ -107,6 +108,10 @@ class Program
         cons1.age = 20;
         Console.WriteLine("Copy COnstructor called \n" + cons1.age + " " + cons2.age);
 
+        //Extension Method
+        Console.WriteLine("\nExtension Method");
+        Fun p=new Fun();
+        p.Funct("zeeshan");
 
     }
 }
