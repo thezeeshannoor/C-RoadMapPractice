@@ -111,7 +111,7 @@ class Program
         //Extension Method
         Console.WriteLine("\nExtension Method");
         Fun p=new Fun();
-        p.Funct("zeeshan");
+        p.Funct("zeeshan");    
 
     }
 }

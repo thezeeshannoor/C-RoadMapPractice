@@ -35,8 +35,7 @@
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T10:12:39.514Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAgwG8AAAAwAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwHAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T04:43:37.62Z",
               "IsPinned": true,
@@ -62,8 +61,7 @@
               "RelativeToolTip": "ExtensionMethod.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAiwBQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T05:08:27.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T05:08:27.836Z"
             }
           ]
         }
