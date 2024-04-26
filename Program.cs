@@ -154,9 +154,12 @@ class Program
         Console.WriteLine("DataTypes Practice\n"+DataTypes.age);
 
         //placeholder indexes
-        Console.WriteLine("\n bool {0} \n Float {1} \n Double {2}", DataTypes.num3,DataTypes.a,DataTypes.da);
+        Console.WriteLine("\n bool {0} \n Float {1} \n Double {2} \n Decimal{3}", DataTypes.num3,DataTypes.a,DataTypes.da,DataTypes.de);
 
-
+        //Date time formats
+        DateTime dt = DateTime.Now;
+        Console.WriteLine("short date{0:d} \nLong date {1:D} \nFull date and Time(short time) {2:f}\nFull data and time(long time){3:F}",dt,dt,dt,dt);
+        Console.ReadLine();
 
     }
 }

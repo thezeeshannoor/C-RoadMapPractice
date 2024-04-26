@@ -13,6 +13,7 @@ namespace C__RoadMap_Practice
         static int num1 = 2;
         static int num2 = 3;
        static public bool num3 = num1 > 2;
+        
 
         //float ,double and decimal data type
 
@@ -22,8 +23,11 @@ namespace C__RoadMap_Practice
         //double support 8 to 16 digits (8 bytes)
         static public double da = 12.0000011111111151;
 
+        static public decimal de = 12.0000011111111151m;
 
-
+        //DateTime Formats
+        
+        
 
     }
 }

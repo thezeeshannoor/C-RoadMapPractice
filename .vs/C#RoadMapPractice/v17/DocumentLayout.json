@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|c:\\users\\zeeshan noor\\source\\repos\\c#roadmappractice\\c#roadmappractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|c:\\users\\zeeshan noor\\source\\repos\\c#roadmappractice\\c#roadmappractice\\referencetypeprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|solutionrelative:referencetypeprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\ValueTypePrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ValueTypePrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|c:\\users\\zeeshan noor\\source\\repos\\c#roadmappractice\\c#roadmappractice\\valuetypeprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A908F940-1E0B-4635-900E-BFB9C18536A6}|C# RoadMap Practice.csproj|solutionrelative:valuetypeprac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\DataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\ReferenceTypePrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReferenceTypePrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\DataTypes.cs",
+              "RelativeDocumentMoniker": "DataTypes.cs",
+              "ToolTip": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\DataTypes.cs",
+              "RelativeToolTip": "DataTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:31:12.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ValueTypePrac.cs",
               "DocumentMoniker": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\ValueTypePrac.cs",
               "RelativeDocumentMoniker": "ValueTypePrac.cs",
               "ToolTip": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\ValueTypePrac.cs",
               "RelativeToolTip": "ValueTypePrac.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:40:27.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReferenceTypePrac.cs",
               "DocumentMoniker": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\ReferenceTypePrac.cs",
               "RelativeDocumentMoniker": "ReferenceTypePrac.cs",
@@ -70,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Zeeshan Noor\\source\\repos\\C#RoadMapPractice\\C#RoadMapPractice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAiwKAAAACGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:38:15.353Z",
               "EditorCaption": ""
