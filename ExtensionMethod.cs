@@ -14,7 +14,7 @@ namespace ExtensionMethod
         //    Console.WriteLine("additional function added using extension method1");
         //}
     }
-    static class ExtensionMethod`    
+    static class ExtensionMethod  
     {
         // this Fun p called binding parameter
         // this means that our function belong to the static class

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# RoadMap Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828494dc0e10479091a827bf87bdfc4409ee9fe5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e2ecee9e910f712fcc1e900f5f7b4c99626cbd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# RoadMap Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# RoadMap Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

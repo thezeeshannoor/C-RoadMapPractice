@@ -8,6 +8,8 @@ using PropertyNamespace;
 using AccessibilityNameSpace;
 using ConstructorNamespace;
 using ExtensionMethod;
+using CollectionNamespace;
+using C__RoadMap_Practice;
 class Program
 {
     static void Main(string[] args)
@@ -111,7 +113,50 @@ class Program
         //Extension Method
         Console.WriteLine("\nExtension Method");
         Fun p=new Fun();
-        p.Funct("zeeshan");    
+        p.Funct("zeeshan");
+
+        //Generic Collection
+        Console.WriteLine("\nGenereic Collections");
+        Console.WriteLine("\nList:\n");
+        Collection colObj=new Collection();
+        //list Add method
+        colObj.std.Add("sohail");
+        colObj.std.Add("sohail");
+        foreach (string std in colObj.std)
+        {
+            Console.WriteLine(std);
+        }
+        Console.WriteLine("\n");
+
+        //List Insert method
+        Console.WriteLine("\nInsert element on first index \n");
+        colObj.std.Insert(1,"farhan");
+        foreach (string std in colObj.std)
+        {
+            Console.WriteLine(std);
+        }
+        //Remove & removeAt method
+        Console.WriteLine("\nRemove first element that named sohail using remove method\n");
+        colObj.std.Remove("sohail");
+        foreach (string std in colObj.std)
+        {
+            Console.WriteLine(std);
+        }
+        Console.WriteLine("\nRemove element that is on index 1  using removeAt method\n");
+        colObj.std.RemoveAt(1);
+        foreach (string std in colObj.std)
+        {
+            Console.WriteLine(std);
+        }
+
+        //Datatypes 
+
+        Console.WriteLine("DataTypes Practice\n"+DataTypes.age);
+
+        //placeholder indexes
+        Console.WriteLine("\n bool {0} \n Float {1} \n Double {2}", DataTypes.num3,DataTypes.a,DataTypes.da);
+
+
 
     }
 }
